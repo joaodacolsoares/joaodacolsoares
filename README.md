@@ -49,7 +49,3 @@
 [![Linkedin: joaodacolsoares](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3odacolsoares/)](https://www.linkedin.com/in/jo%C3%A3odacolsoares/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joao.dacol.soares@gmail.com)](mailto:joao.dacol.soares@gmail.com)
 [![joaodacolsoares]( https://img.shields.io/github/followers/joaodacolsoares?label=GitHub&style=social)](https://github.com/joaodacolsoares)
-
-<a href="https://github.com/joaodacolsoares">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaodacolsoares&show_icons=true" />
-</a>
