@@ -3,10 +3,10 @@
 ```
 <h2> 👨‍💻 &nbsp;About me </h2>
 
-- 🤔 &nbsp; Aiming to become an awesome **Frontend Developer**.
-- 🎓 &nbsp; Studying **Computer Science** at <a href="https://www.unisinos.br/">Unisinos</a>.
-- 💼 &nbsp; Working as **Front-end Engineer** at <a href="https://casamento.wedy.com/">Wedy</a>
-- 🚀 &nbsp; Leaning more about **NextJS**, **Motion** or anything involving the **Javascript Ecosystem**
+- 🤔 &nbsp; I love to work as a **Frontend Engineer**.
+- 🎓 &nbsp; Studying **Computer Science** in <a href="https://www.unisinos.br/">Unisinos</a>.
+- 💼 &nbsp; Working as **Tech Lead Engineer** at <a href="https://casamento.wedy.com/">Wedy</a>
+- 🚀 &nbsp; Working mainly with **NextJS**, **Motion**, **Tailwind** and open to anything involving the **Javascript/Typescript Ecosystem**
 - 🎮 &nbsp; Game lover.
 
 <h2> 💻 Main Skills </h2>
