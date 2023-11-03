@@ -35,15 +35,7 @@
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
   ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
   ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-
-<h2> 🐶 &nbsp;Pet projects </h2>
-
-[Pay Your Name](https://payyourname.com) - A website where you can pay any amount to list your name in a ranking. It was developed with two friends using Figma, NextJS, Tailwind, Vercel and Stripe payment API. You can find the repository [here](https://github.com/joaodacolsoares/payyourname).
-
-**John Coin** - A node application that help me learn how blockchain and cryptocurrency works. It was based in the bitcoin blockchain, so I've implemented the basic algorithm of the proof of work. It was developed with Typescript, Jest and following *conventional commits* [here](https://github.com/joaodacolsoares/super-pomodoro-timer).
-
-[Super pomodoro timer](https://nwl4-moveit.vercel.app/) - It's a gamified pomodoro timer, developed with NextJS, CSS and Vercel. You can find the repository [here](https://github.com/joaodacolsoares/super-pomodoro-timer).
-
+  
 <h2> 🌎 &nbsp;Where to find me </h2> 
 
 [![Linkedin: joaodacolsoares](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3odacolsoares/)](https://www.linkedin.com/in/jo%C3%A3odacolsoares/)
